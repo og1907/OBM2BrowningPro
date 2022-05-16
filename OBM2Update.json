@@ -1,16 +1,16 @@
 {
-  "Versione": "2.1.0",
-  "Disponibile": "Vero",,
-  "Messaggio": "",
+  "Version": "2.1.0",
+  "Available": "True",
+  "Message": "",
   "DownloadUrl": "",
-  "Note di rilascio": [
+  "ReleaseNotes": [
     {
-      "Nota": ""
+      "Note": ""
     },
   ],
-  "Dona": [
+  "Donate": [
     {
-      "Indirizzo": "https://bit.ly/3PsDlum"
+      "Address": "https://bit.ly/3PsDlum"
     },
 
   ]
